@@ -1,8 +1,8 @@
-﻿<Properties>
+﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SmartQuant.KS\Properties\AssemblyInfo.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmartQuant.KS\Kingstar.cs">
     <Files>
-      <File FileName="SmartQuant.KS\Kingstar.cs" Line="8" Column="4" />
+      <File FileName="SmartQuant.KS\Kingstar.cs" Line="10" Column="1" />
       <File FileName="SmartQuant.KS\Properties\AssemblyInfo.cs" Line="11" Column="33" />
     </Files>
   </MonoDevelop.Ide.Workbench>
